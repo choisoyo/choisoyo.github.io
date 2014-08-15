@@ -6,7 +6,7 @@
 	<font size='4'>
 <div class="menu-item"><a href="index.html">Home</a></div>
 <div class="menu-item"><a href="education.html">Education</a></div>
-<div class="menu-item"><a href="research.html" class="current">Research</a></div>
+<div class="menu-item"><a href="publications.html" class="current">Research</a></div>
 <div class="menu-item"><a href="about_me.html">About&nbsp;me</a></div>
 </td>
 <td id="layout-content">
